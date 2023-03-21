@@ -3,9 +3,9 @@
 let edi = document.querySelector('textarea#ed')
 
 function botaocm() {
-    let uspwr = document.querySelector('input#USPWR')
+    let uspwr = document.querySelector('input#USPwr')
     let usmer = document.querySelector('input#USMER')
-    let dspwr = document.querySelector('input#DSPWR')
+    let dspwr = document.querySelector('input#DSPwr')
     let dsmer = document.querySelector('input#DSMER')
     let u = (uspwr.value)
     let u1 = (usmer.value)
