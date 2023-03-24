@@ -1,5 +1,5 @@
-
 let edi = document.querySelector('textarea#ed')
+
 
 function botaocm() {
     let uspwr = document.querySelector('input#USPwr')
@@ -36,9 +36,13 @@ function botaoont() {
         edi.innerHTML = ` ONT UP. Sinal alterado. ONT ${ont_1} OLT ${olt_1} `
     }
     
-} function botao_script {
+} 
 
-        edi.innerHTML = ' SOLICITANTE: 
+function botao_script() {
+
+        edi.innerHTML = 
+        `
+        SOLICITANTE:
         DEMANDA IDENTIFICADA:
         CONTATO REINCIDENTE: NÃO () SIM ()
         INFORMAÇÕES DO EQUIPAMENTO:
@@ -74,18 +78,20 @@ function botaoont() {
         Contrato:
         Cidade:
         Serviço:
-        Problema:
-         '
+        Problema: `
+        
+         
 }
 
-function botao_blip {
+function botao_blip() {
 
-    edi.innerHTML = ' BliP
-
+    edi.innerHTML =  ` 
+    BLiP
+    
     Boa tarde! Me chamo Edgar, atendente do suporte técnico e irei dar continuidade ao seu atendimento.
     
     Falo com o titular do contrato nesse momento?
-    
+
     -----
     
     Obrigado pelas confirmações, foi gerado protocolo de número 20230294909361.
@@ -194,6 +200,6 @@ function botao_blip {
     --------
     
     Sim, após ser concluída a manutenção será calculado o tempo da falta de acesso, é feito de forma automática o desconto em fatura, e para o senhor confirmar pode buscar informações sobre a eventualidade com a identificação da eventualidade que é  INC.2015.
-      '
+    ` 
 
 }
