@@ -1,10 +1,26 @@
-textarea {
+body {
+    background-color: #f0f0f0;
+    color: #333333;
+}
 
-    margin-left: 13cm;
+textarea {
+    background-color: #f0f0f0;
+    margin-left: 8cm;
     font-size: 18px;
-    border-color: black;
+    color: #333333;
+    border: 2px solid #000;
+    
 }
 
 h1#h1 {
-    margin-left: 17.2cm;
+    margin-left: 10.5cm;
 }
+
+input {
+
+    border: 2px solid #000;
+  border-radius: 10px;
+  
+  
+}
+
