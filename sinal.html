@@ -9,13 +9,53 @@
 </head>
 <body>
 
+    <table border="1">
+
+        <thead>
+        <tr>
+            <th>Modem</th>
+            <th>User</th>
+            <th>Password</th>
+            <th>Scriptt</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Nokia</td>
+            <td>support</td>
+            <td>C4b0)!G3r</td>
+            <td>text</td>
+        </tr>
+        <tr>
+            <td>Zhone/FGA</td>
+            <td>support</td>
+            <td>BM3mgqmf</td>
+            <td>VT/B.O</td>
+        </tr>
+        </tbody>
+
+
+        <tfoot>
+            <td>Foot 1</td>
+            <td>Foot 2</td>
+            <td>Foot 3</td>
+            <td> <br> Solicitante: <br>
+                OBS: <br>
+                PR: <br>
+                TL: <br>
+                Prazo: <br>
+            </td>
+        </tfoot>
+
+     </table>
+
     <h1> Sinal </h1>
 
     <section> 
 
         <div >  
             
-            CM / ONT: <input type="button" value="Script" name="script" onclick="botao_script()"> <input type="button" value="BLiP" name="blip" onclick="botao_blip()"> <br> <br>  
+            CM / ONT: <input type="button" value="Script" name="script" onclick="botao_script()"> <input type="button" value="BLiP" name="blip" onclick="botao_blip()">  <br> <br>  
                  USPwr <input type="text" name="USPwr" id="USPwr"> ONT <input type="text" name="ONT" id="ONT">  <br> <br>
                  USMER <input type="text" name="USMER" id="USMER"> OLT <input type="text" name="OLT" id="OLT">  <br> <br>
                  DSPwr <input type="text" name="DSPwr" id="DSPwr">  <br> <br>
@@ -29,9 +69,67 @@
                 
           
             <h1 id="h1"> Bloco de Notas </h1> 
-         <textarea  name="ed" id="ed" cols="50" rows="0" > </textarea>   <textarea name="" id="" cols="50" rows="20"></textarea>
-       
+         <textarea  name="ed" id="ed" cols="50" rows="0" >  </textarea>   <textarea name="" id="" cols="50" rows="20"></textarea> 
 
+            <!--  
+            <tr> representa uma linha 
+            <td> representa uma célula
+            <th> titulo  
+            <tfoot></tfoot> ultima linha
+            
+                
+            -->
+                            
+       
+         <!--   <table border="1">
+            <tr>
+                <td>Nome</td>
+                <td>Idade</td>
+                <td>Profissão</td>
+            </tr>
+            <tr>
+                <td>Ted</td>
+                <td>22</td>
+                <td>Estudante</td>
+            </tr>
+            <tr>
+                <td>Ralf</td>
+                <td>26</td>
+                <td>Designer</td>
+            </tr>
+        </table>
+        -->
+
+       <!--  <table border="1">
+            <thead>
+            <tr>
+                <th>titulo 1</th>
+                <th>titulo 2</th>
+                <th>titulo 3</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Body1 linha1</td>
+                <td>Body2 linha1</td>
+                <td>Body3 linha1</td>
+            </tr>
+            <tr>
+                <td>Body1 linha2</td>
+                <td>Body2 linha2</td>
+                <td>Body3 linha2</td>
+            </tr>
+            </tbody>
+            <tfoot>
+                <td>Foot 1</td>
+                <td>Foot 2</td>
+                <td>Foot 3</td>
+            </tfoot>
+         </table>
+
+         -->
+
+       
       
          
         
@@ -42,5 +140,6 @@
     </section>
 
     <script src="sinal.js"> </script>
+    
 </body>
 </html>
