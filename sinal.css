@@ -1,6 +1,8 @@
 body {
     background-color: #f0f0f0;
     color: #333333;
+    font-family: Arial;
+    font-style: italic;
 }
 
 textarea {
@@ -25,9 +27,9 @@ input {
 }
 
 table {
-    font-size: 25px;
+    font-size: 15px;
     margin-left: 20.5cm;
-    width: 20cm;
+    width: 14cm;
     
 }
 
