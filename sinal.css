@@ -7,15 +7,10 @@ body {
 
 textarea {
     background-color: #f0f0f0;
-    margin-left: 8cm;
     font-size: 18px;
     color: #333333;
     border: 2px solid #000;
     
-}
-
-h1#h1 {
-    margin-left: 10.5cm;
 }
 
 input {
@@ -23,13 +18,16 @@ input {
     border: 2px solid #000;
   border-radius: 10px;
   
-  
+}
+
+aside {
+    display: block;
+    float: right;
+    margin-top: -400px;
 }
 
 table {
     font-size: 15px;
-    margin-left: 20.5cm;
     width: 14cm;
     
 }
-
