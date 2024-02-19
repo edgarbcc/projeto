@@ -47,7 +47,10 @@ function botaoont() {
 function botao_script() {
 
         edi.innerHTML = 
-        `    
+   
+		
+		`    
+  TA CONSTANDO PAE
 ---
 
 @cope
