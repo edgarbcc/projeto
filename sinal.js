@@ -164,6 +164,8 @@ Para solicitar um plano com menor valor, terá de entrar em contato por ligaçã
 Posição de OS, dentro do prazo, orientei aguardar.
 ----
 Me informa o novo endereço completo.
+----
+atendimento@alaresinternet.com.br
 
 		
 
