@@ -439,6 +439,12 @@ Huawei WiFI 6
 
 Para acessar a interface https:// + IP + porta 8888 Senha: @4L4r3s_FlY
 
+---
+
+No Prompt de Comando: Abra o Prompt de Comando e digite “ipconfig“. 
+Localize a seção “Adaptador Ethernet” ou “Adaptador sem fio” e 
+procure pelo valor “Velocidade“. Esse valor representa a velocidade atual da sua placa de rede.
+
 
     ` 
 
