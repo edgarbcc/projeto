@@ -441,8 +441,9 @@ Para acessar a interface https:// + IP + porta 8888 Senha: @4L4r3s_FlY
 
 ---
 
-No Prompt de Comando: Abra o Prompt de Comando e digite “ipconfig“. 
-Localize a seção “Adaptador Ethernet” ou “Adaptador sem fio” e 
+Faça esse caminho:
+Painel de Controle > Rede e Internet > Central de Rede e Compartilhamento
+Localize a seção “Internet” e clica em “Ethernet”,
 procure pelo valor “Velocidade“. Esse valor representa a velocidade atual da sua placa de rede.
 
 
