@@ -2,6 +2,35 @@
 
 let edi = document.querySelector('textarea#ed')
 
+function botao_dns() {
+    
+    edi.innerHTML = `Primário: 189.124.132.32
+Secundário: 189.124.132.33      
+    
+    `
+}
+
+function botao_VT() {
+    
+    edi.innerHTML = `Solicitante: 
+OBS: 
+TL: 
+Prazo:     
+    
+    `
+}
+
+
+function botao_senhas() {
+    
+    edi.innerHTML = `Nokia: support / C4b0)!G3r
+Zhone: support / BM3mgqmf
+    
+    `
+}
+
+
+/*
 
 function botaocm() {
     let uspwr = document.querySelector('input#USPwr')
@@ -39,6 +68,8 @@ function botaoont() {
     }
     
 }
+
+*/
 
 
 
