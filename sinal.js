@@ -25,6 +25,7 @@ function botao_senhas() {
     
     edi.innerHTML = `Nokia: support / C4b0)!G3r
 Zhone: support / BM3mgqmf
+WIFI6: support / C4b0)!G3r / c4b0t3l3c0m / Alares@10600 / @4L4r3s_FlY
     
     `
 }
