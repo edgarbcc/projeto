@@ -454,30 +454,8 @@ Peço gentilmente que considere responder a nossa pesquisa de satisfação sobre
 
 ---
 
-WIFI 6
-
-Para acessar a interface dos equipamentos vai ser preciso inserir as seguintes portas:
-RN: 8089 ou 8099 (ZTE)
-
-SE: Não precisa de porta
-
-Roteador ZTE e Huawei – Usuário: support Senha: C4b0)!G3r Porta ZTE: 443 e Huawei – 8888
-
-Senha Wifi 6 (RN e CE): c4b0t3l3c0m c4b0@t3l3c0m
-
-Alares@10600
-
-Huawei WiFI 6
-
-Para acessar a interface https:// + IP + porta 8888 Senha: @4L4r3s_FlY
-
----
-
-Faça esse caminho:
-Painel de Controle > Rede e Internet > Central de Rede e Compartilhamento
-Localize a seção “Internet” e clica em “Ethernet”,
-procure pelo valor “Velocidade“. Esse valor representa a velocidade atual da sua placa de rede.
-
+Não é possível reativar o contrato cancelado, será necessário quitar os débitos 
+se houver, entregar o equipamento, após isso, irá poder solicitar um novo contrato.
 
     ` 
 
