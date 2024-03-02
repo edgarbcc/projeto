@@ -457,6 +457,12 @@ Peço gentilmente que considere responder a nossa pesquisa de satisfação sobre
 Não é possível reativar o contrato cancelado, será necessário quitar os débitos 
 se houver, entregar o equipamento, após isso, irá poder solicitar um novo contrato.
 
+---
+
+Vejo que solicitou desbloqueio de confiança dia xx/xx/xxxx, esse é o único método que te da acesso mais dias para poder realizar 
+o pagamento da fatura, após ser solicitado esse desbloqueio, caso o pagamento não apresente no sistema em 72hrs, 
+o sinal é bloqueado novamente.
+
     ` 
 
 }
