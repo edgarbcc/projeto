@@ -210,7 +210,7 @@ Olá, bom dia! Meu nome é Edgar, e darei continuidade ao seu atendimento. O pro
 Confirmação de dados:
 Se for o titular:
     
-Por gentileza confirmar os seguintes dados:
+Por gentileza informar os seguintes dados:
 Nome completo:
 Telefone:
 E-mail:
@@ -218,7 +218,7 @@ CPF:
     
 Se for Terceiro em linha:
     
-Por gentileza confirmar os seguintes dados do titular do contrato:
+Por gentileza informar os seguintes dados do titular do contrato:
 Nome completo:
 Telefone:
 CPF:
@@ -226,7 +226,7 @@ Parentesco com o titular:
 
 Se for empresa:
 
-Por gentileza confirmar os dados do contrato:
+Por gentileza informar os dados do contrato:
 Nome completo da razão social:
 Telefone:
 CNPJ:
