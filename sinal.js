@@ -422,8 +422,10 @@ Para melhor atendê-lo, seu plano foi atualizado para o novo portfólio. Agora t
 
 ----  
 
-Para confirmar preciso que me envie uma selfie segurando documento com foto.
-
+Por padrão de segurança, preciso que envie uma selfie portando 
+o documento de identificação visível (frente e verso do documento). 
+Reforçamos que o envio da selfie é único e exclusivo 
+para este fim e que os dados são protegidos conforme a LGPD (Lei Geral de Proteção de Dados)
 ---   
 
 Contatos do setor de negociação e cobrança:
