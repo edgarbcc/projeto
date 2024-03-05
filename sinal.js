@@ -422,10 +422,8 @@ Para melhor atendê-lo, seu plano foi atualizado para o novo portfólio. Agora t
 
 ----  
 
-Por padrão de segurança, preciso que envie uma selfie portando 
-o documento de identificação visível (frente e verso do documento). 
-Reforçamos que o envio da selfie é único e exclusivo 
-para este fim e que os dados são protegidos conforme a LGPD (Lei Geral de Proteção de Dados)
+Por padrão de segurança, preciso que envie uma selfie portando o documento de identificação visível, e também foto do documento frente e verso. 
+Reforçamos que o envio da selfie é único e exclusivo para este fim e que os dados são protegidos conforme a LGPD (Lei Geral de Proteção de Dados).
 ---   
 
 Contatos do setor de negociação e cobrança:
