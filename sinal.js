@@ -288,8 +288,7 @@ E na fonte, verifique os cabos que conectam nela por favor. O que vem da antena 
     
     ---
     
-Verifiquei que já foi solicitado um desbloqueio de confiança esse mês e o sistema somente aceita um desbloqueio dentro de 30 dias, dessa forma, será necessário aguardar a compensação do pagamento da fatura que ocorre dentro do prazo de até 3 dias úteis.
-    
+Verifiquei que já foi solicitado um desbloqueio de confiança e o sistema somente aceita um desbloqueio dentro de 30 dias, dessa forma, será necessário aguardar a compensação do pagamento da fatura que ocorre dentro do prazo de até 48h úteis.    
 ---
     
 Tem até 2 dias úteis para o pagamento chegar ao nosso sistema e liberar o acesso.  
@@ -422,8 +421,7 @@ Para melhor atendê-lo, seu plano foi atualizado para o novo portfólio. Agora t
 
 ----  
 
-Por padrão de segurança, preciso que envie uma selfie portando o documento de identificação visível, e também foto do documento frente e verso. 
-Reforçamos que o envio da selfie é único e exclusivo para este fim e que os dados são protegidos conforme a LGPD (Lei Geral de Proteção de Dados).
+Por padrão de segurança, preciso que envie uma selfie portando o documento de identificação visível, e também foto do documento frente e verso. Reforçamos que o envio da selfie é único e exclusivo para este fim e que os dados são protegidos conforme a LGPD (Lei Geral de Proteção de Dados).
 ---   
 
 Contatos do setor de negociação e cobrança:
