@@ -447,8 +447,6 @@ Não consigo escutar áudios.
 O aumento que ocorreu na fatura foi um reajuste baseado no IPCA, que é o (Índice Nacional de Preços ao Consumidor Amplo).
 O reajuste é previsto em contrato e ocorre a cada 12 meses, de acordo com a data base de instalação. Não visa nenhum tipo de lucro, apenas adequação aos preços de comércio. Ocorreu um erro no reajuste e foi mais do que o devido, mas já foi feito o desconto de R$ 4,95 na fatura que a senhora irá ver ao tentar fazer o pagamento.
 
-Peço gentilmente que considere responder a nossa pesquisa de satisfação sobre o meu atendimento no final e se possível deixe uma *nota 5* para que possa ajudar no meu desempenho na empresa 🤝😁
-
 ---
 
 Não é possível reativar o contrato cancelado, será necessário quitar os débitos 
@@ -459,6 +457,11 @@ se houver, entregar o equipamento, após isso, irá poder solicitar um novo cont
 Vejo que solicitou desbloqueio de confiança dia xx/xx/xxxx, esse é o único método que te da acesso mais dias para poder realizar 
 o pagamento da fatura, após ser solicitado esse desbloqueio, caso o pagamento não apresente no sistema em 72hrs, 
 o sinal é bloqueado novamente.
+
+----
+
+O valor original do plano é o que chegou no e-mail, no entanto, por ter optado pela fatura digital, irá receber R$ 5 de desconto do mês.
+
 
     ` 
 
