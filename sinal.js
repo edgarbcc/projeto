@@ -198,6 +198,8 @@ Posição de OS, dentro do prazo, orientei aguardar.
 Me informa o novo endereço completo.
 ----
 atendimento@alaresinternet.com.br
+----
+Me envia foto do modem.
 
 		
 
