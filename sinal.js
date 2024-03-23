@@ -351,7 +351,7 @@ Caso esteja o envio pelos Correios, aumenta R$5,00 o valor da velocidade
 
 Vou te passar as condições para adesão :
 
-*Instalação grátis mediante permanência mínima de 12 meses. Em caso de cancelamento antes do fim da fidelidade, será cobrada uma multa proporcional ao tempo de permanência no valor de R$ 600,00*
+*Migração grátis mediante permanência mínima de 12 meses. Em caso de cancelamento antes do fim da fidelidade, será cobrada uma multa proporcional ao tempo de permanência no valor de R$ 600,00*
 
 *A taxa fica suspensa sob a condição da sua permanência pelo período mínimo de 12 meses*
 
