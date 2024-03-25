@@ -407,8 +407,7 @@ Informações sobre cancelamento é somente por ligação no n° 10600, junto ao
 
 ----  
 
-Certo, se desejar uma visita técnica posso abrir a ordem, 
-já informações sobre cancelamento é somente por ligação no n° 10600, junto ao setor de relacionamento.
+Certo, se desejar suporte técnico, posso verificar, já informações sobre cancelamento é somente por ligação no n° 10600, junto ao setor de relacionamento.
 
 ----
 
